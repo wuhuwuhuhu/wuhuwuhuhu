@@ -5,7 +5,7 @@
 You can find me on [![LinkedIn][1.1]][1].
 
 <!-- Icons -->
-[1.1]: https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BgJM1pv66ScGB4GMGHqV9UQ%3D%3D
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!-- Links to your social media accounts -->
 
