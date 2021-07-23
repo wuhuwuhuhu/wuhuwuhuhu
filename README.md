@@ -19,7 +19,7 @@ You can find me on [![LinkedIn][1.1]][1].
 <!-- BLOG-POST-LIST:START -->
 - [Boss & Coder coder employment recruitment application](https://github.com/wuhuwuhuhu/Boss-and-Coder_client)
   - ![image](https://github.com/wuhuwuhuhu/Boss-and-Coder_client/blob/master/demo.gif)
-- [Auto translation chat platform: InterNatter](http://www.internatter.net/)
+- [Auto translation chat platform: InterNatter](https://github.com/wuhuwuhuhu/InterNatter)
 - [Q&A Question and Answer Community](https://github.com/wuhuwuhuhu/CS-546-Web-Programming-Project)
 <!-- BLOG-POST-LIST:END -->
 <hr width="50%" style="height:5px;">
